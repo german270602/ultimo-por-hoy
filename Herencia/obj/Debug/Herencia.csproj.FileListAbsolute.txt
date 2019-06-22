@@ -1,0 +1,7 @@
+C:\Users\german lol\source\repos\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\german lol\source\repos\Herencia\bin\Debug\Herencia.exe
+C:\Users\german lol\source\repos\Herencia\bin\Debug\Herencia.pdb
+C:\Users\german lol\source\repos\Herencia\obj\Debug\Herencia.csprojAssemblyReference.cache
+C:\Users\german lol\source\repos\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\german lol\source\repos\Herencia\obj\Debug\Herencia.exe
+C:\Users\german lol\source\repos\Herencia\obj\Debug\Herencia.pdb
